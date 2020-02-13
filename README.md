@@ -15,14 +15,16 @@ Step 1: Formulate a research question to answer with your data
 Step 2: Describe the data used and the way it was collected
 Step 3: Describe what pre-processing you performed on the data, if any; explain why it was necessary
 Step 4: Visualise the non-preprocessed data, if any, to show the importance of data cleaning
-Step 5: Carry out the necessary analyses and visualise your results (e.g., graphs, barplots etc.). Show how you answer your research question with these analyses.
+Step 5: Carry out the necessary analyses and visualise your results (e.g., graphs, barplots etc.). Show how you answer your research question with these analyses
 Step 6: Describe the limitations of your data and analysis or app
 Step 7: Share your code via GitHub or alternative services. Preferably you should construct interactive visualisations
 
 
 General Idea
 
-The USA elections in 2020 are trending topics on Social Network Services (SNS) such as Twitter and Facebook. Can we see or predict election outcomes, by mining this information from data on SNS.
+The USA elections in 2020 are trending topics on Social Network Services (SNS) such as Twitter and Facebook. Can we see or predict election outcomes, by mining this information from data on SNS. The idea is to mine data from the USA elections in 2016 from Twitter and Facebook. After which we can compare this data with the real USA elections outcomes of 2016. The candidate chosen to gather SNS information on republican "Hillary Clinton" and democratic candidate "Dondald Trump".
+
+
 
 The SNS are also notorious in spreading fake news around the globe. 
 
