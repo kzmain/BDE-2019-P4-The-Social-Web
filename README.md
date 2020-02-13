@@ -22,7 +22,7 @@ Step 7: Share your code via GitHub or alternative services. Preferably you shoul
 
 General Idea
 
-The USA elelctions in 2020 are trending topics on Social Network Services (SNS) such as Twitter and Facebook. In order to see or predict election outcomes, is it possible to get this information from data on SNS. 
+The USA elections in 2020 are trending topics on Social Network Services (SNS) such as Twitter and Facebook. Can we see or predict election outcomes, by mining this information from data on SNS.
 
 The SNS are also notorious in spreading fake news around the globe. 
 
