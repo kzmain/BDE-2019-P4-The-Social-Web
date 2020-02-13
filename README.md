@@ -22,14 +22,6 @@ Step 7: Share your code via GitHub or alternative services. Preferably you shoul
 
 General Idea
 
-The USA elections in 2020 are trending topics on Social Network Services (SNS) such as Twitter and Facebook. Can we see or predict election outcomes, by mining this information from data on SNS. The idea is to mine data from the USA elections in 2016 from Twitter and Facebook. After which we can compare this data with the real USA elections outcomes of 2016. The candidate chosen to gather SNS information on republican "Hillary Clinton" and democratic candidate "Dondald Trump".
+The US elections in 2020 is a trending topic on Social Network Services (SNS) such as Twitter and Facebook. SNS have proven themselves to be a great influence on society sparking controversy in for example the 2016 US elections. This gives rise to the following question: To what degree can data mining of social network services predict the outcome of an US election? The idea is to mine data from Twitter and Facebook related to the USA elections in 2016 surrounding the republican candidate "Dondald Trump" and democratic candidate "Hillary Clinton". The data collected can be compared to data of the real US elections outcomes of 2016. 
 
-
-
-The SNS are also notorious in spreading fake news around the globe. 
-
-Twitter and Facebook can be mined to see what topics are trending in a specific timeframe. 
-
-Research question
-
-To what degree can data mining of social network services predict the outcome of an US election?
+Research question: To what degree can data mining of social network services predict the outcome of an US election?
