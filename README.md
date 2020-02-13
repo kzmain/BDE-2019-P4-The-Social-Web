@@ -30,3 +30,6 @@ The SNS are also notorious in spreading fake news around the globe.
 
 Twitter and Facebook can be mined to see what topics are trending in a specific timeframe. 
 
+Research question
+
+To what degree can data mining of social network services predict the outcome of an US election?
