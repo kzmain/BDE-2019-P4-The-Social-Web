@@ -20,6 +20,11 @@ Step 6: Describe the limitations of your data and analysis or app
 Step 7: Share your code via GitHub or alternative services. Preferably you should construct interactive visualisations
 
 
-Idea start
+General Idea
 
+The USA elelctions in 2020 are trending topics on Social Network Services (SNS) such as Twitter and Facebook. In order to see or predict election outcomes, is it possible to get this information from data on SNS. 
+
+The SNS are also notorious in spreading fake news around the globe. 
+
+Twitter and Facebook can be mined to see what topics are trending in a specific timeframe. 
 
