@@ -1,0 +1,10 @@
+.bash_history
+.bash_logout
+.bashrc
+.cache/
+.gnupg/
+.ijupyter/
+.ipynb_checkpoints/
+.ipython/
+.local/
+.profile
