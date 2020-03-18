@@ -14,6 +14,7 @@
        <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/echarts-gl/dist/echarts-gl.min.js"></script>
        <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/echarts-stat/dist/ecStat.min.js"></script>
        <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/echarts/dist/extension/dataTool.min.js"></script>
+       <script type = "text/javascript"  src = "{{ url_for('static', filename = './echarts-wordcloud.js') }}" ></script>
        <script type="text/javascript">
            let true_x_axis_data = {{ true_x_axis_data | safe }};
            let true_data_estimation_hillary = {{ true_data_estimation_hillary | safe }};
