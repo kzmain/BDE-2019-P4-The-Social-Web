@@ -1,0 +1,103 @@
+<!doctype html>
+<html>
+<head>
+  <script src="https://code.jquery.com/jquery-latest.min.js"></script>
+  <script src="https://d3js.org/d3.v4.min.js" charset="utf-8"></script>
+  <script src="dist/d3-timelines.js"></script>
+
+  <style type="text/css">
+    .axis path,
+    .axis line {
+      fill: none;
+      stroke: black;
+      shape-rendering: crispEdges;
+    }
+
+    .axis text {
+      font-family: sans-serif;
+      font-size: 10px;
+    }
+
+    .timeline-label {
+      font-family: sans-serif;
+      font-size: 12px;
+    }
+
+    #timeline2 .axis {
+      transform: translate(0px,40px);
+      -ms-transform: translate(0px,40px); /* IE 9 */
+      -webkit-transform: translate(0px,40px); /* Safari and Chrome */
+      -o-transform: translate(0px,40px); /* Opera */
+      -moz-transform: translate(0px,40px); /* Firefox */
+    }
+
+    .coloredDiv {
+      height:20px; width:20px; float:left;
+    }
+  </style>
+  <script type="text/javascript">
+    window.onload = function() {
+
+      // var labelTestData = [
+			// 	{label: "person a", times: [{"starting_time": 1355752800000, "ending_time": 1355752800000}, {"starting_time": 1355767900000, "ending_time": 1355774400000}]},
+			// 	{label: "person b", times: [{"starting_time": 1355759910000, "ending_time": 1355761900000}, ]},
+			// 	{label: "person c", times: [{"starting_time": 1355761910000, "ending_time": 1355763910000}]}
+      // ];
+      var labelTestData = []
+      var yData = [
+        {"starting_time": 1470009600000, "value": 10}, 
+        {"starting_time": 1470096000000, "value": 20},
+				{"starting_time": 1470182400000, "value": 30},
+				{"starting_time": 1470268800000, "value": 40}
+			];
+
+      var width = 800;
+      var height = 0;
+
+      function timelineStackedHover() {
+        var chart = d3.timelines()
+        .width(width*1.1)
+          .stack()
+          .yData(yData)
+          .margin({left:70, right:30, top:0, bottom:0})
+          .hover(function (d, i, datum) {
+          // d is the current rendering object
+          // i is the index during d3 rendering
+          // datum is the id object
+            var div = $('#hoverRes');
+            var colors = chart.colors();
+            div.find('.coloredDiv').css('background-color', colors(i))
+            div.find('#name').text(datum.label);
+          })
+          .beginning(1470009600000 - 100000)
+          .ending(1478736000000)
+          .click(function (d, i, datum) {
+            console.log("timeStackedHover", datum.label);
+          })
+          .scroll(function (x, scale) {
+						$("#scrolled_date").text(scale.invert(x) + " to " + scale.invert(x+width));
+					});
+
+        var svg = d3.select("#timeline3").append("svg").attr("width", width).attr("height", 0)
+          .datum(labelTestData).call(chart);
+      }
+
+      timelineStackedHover();
+
+    }
+  </script>
+</head>
+<body>
+
+  <div>
+    <h3>A stacked timeline with hover, click, and scroll events</h3>
+    <div id="timeline3"></div>
+    <div id="hoverRes">
+      <div class="coloredDiv"></div>
+      <div id="name"></div>
+    </div>
+  </div>
+  <div>
+
+</body>
+</html>

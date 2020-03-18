@@ -1,0 +1,5 @@
+# candidates_raw = ['Hillary', 'Hillary Clinton', 'Donald Trump', 'Trump']
+candidates_raw = ['Hillary', 'Trump']
+# candidates_analysis = [['Hillary', 'Hillary Clinton'], ['Trump', 'Donald Trump']]
+candidates_analysis = [['Hillary'], ['Trump']]
+candidates_result = ["Hillary", "Trump"]
