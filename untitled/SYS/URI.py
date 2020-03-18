@@ -1,6 +1,8 @@
 import os, pathlib
+from pathlib import Path
 
-project_path = "/Users/kzmain/_Repository/untitled/"
+__dir_path = os.path.dirname(os.path.realpath(__file__))
+project_path = proj_path = Path(__dir_path).parent
 
 data_dir = pathlib.Path(project_path).joinpath("./data")
 raw_data = pathlib.Path(data_dir).joinpath("./raw-data")
@@ -27,3 +29,6 @@ show_heat_hillary_true = str(pathlib.Path(hea_resu).joinpath("./True-Hillary.par
 print(show_heat_hillary_true)
 show_token_true = str(pathlib.Path(tok_resu).joinpath("./*"))
 show_ner_true   = str(pathlib.Path(ner_resu).joinpath("./*"))
+
+
+print(proj_path)
