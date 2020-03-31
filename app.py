@@ -2,8 +2,8 @@ from flask import Flask, render_template, request
 from DataProcessor.DataProcessor import DataProcessor as Dp
 import os
 
-java8_location = '/Library/Java/JavaVirtualMachines/liberica-jdk-1.8.0_202/Contents/Home'  # Set your own
-os.environ['JAVA_HOME'] = java8_location
+# java8_location = '/Library/Java/JavaVirtualMachines/liberica-jdk-1.8.0_202/Contents/Home'  # Set your own
+# os.environ['JAVA_HOME'] = java8_location
 
 app = Flask(__name__)
 data = Dp()
