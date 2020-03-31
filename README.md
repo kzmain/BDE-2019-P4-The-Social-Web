@@ -16,6 +16,8 @@
 The US elections in 2020 is a trending topic on Social Network Services (SNS) such as Twitter and Facebook. SNS have proven themselves to be a great influence on society sparking controversy in for example the 2016 US elections. This gives rise to the following question: To what degree can data mining of social network services predict the outcome of an US election? The idea is to mine data from Twitter and Facebook related to the USA elections in 2016 surrounding the republican candidate "Dondald Trump" and democratic candidate "Hillary Clinton". The data collected can be compared to data of the real US elections outcomes of 2016. The gathered information and analysis of the data can present great insight in actual SNS influence on world politics.
 
 Research question: To what degree can data mining of social network services predict the outcome of an US election?
+## Project Information Visualization Demo
+[Video Link][https://www.google.com]
 
 ## Data process pip-line
 <img src="./Doc/process_pipline.png" width="900" align="center">
