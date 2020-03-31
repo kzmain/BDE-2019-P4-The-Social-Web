@@ -1,6 +1,7 @@
 <h1 align="center"> The Social Web (Project Group 3)</h1>
 
-![VU_Amsterdam_Logo](./Doc/vu_logo.png){:width="300px"}
+
+<img src="./Doc/vu_logo.png" width="400" height="790">
 
 <p align="center">
     <i>
