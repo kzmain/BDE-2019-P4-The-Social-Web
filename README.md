@@ -1,4 +1,4 @@
-# The social web assignment (Project Group 3)
+<h1 align="center"> The social web assignment (Project Group 3)</h1>
 <p align="center">
     <i>
         <b>
