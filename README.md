@@ -1,4 +1,7 @@
-<h1 align="center"> The social web assignment (Project Group 3)</h1>
+<h1 align="center"> The Social Web (Project Group 3)</h1>
+
+![VU_Amsterdam_Logo](./Doc/vu_logo.png)
+
 <p align="center">
     <i>
         <b>
@@ -6,6 +9,7 @@
         </b>
     </i>
 </p>
+
 
 ## General Idea
 
