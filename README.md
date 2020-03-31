@@ -1,5 +1,11 @@
 # The social web assignment (Project Group 3)
-<p align="center">Group Members: Member_1: Student_Number_1(EMAIL_1), Member_2: Student_Number_2(EMAIL_2), Member_3: Student_Number_3(EMAIL_3), Member_4: Student_Number_4(EMAIL_4), Kai Zhang: 12712469 (mail@kai.sh)</p>
+<p align="center">
+    <i>
+        <b>
+        Group Members: <br>Member_1: Student_Number_1(EMAIL_1), Member_2: Student_Number_2(EMAIL_2), Member_3: Student_Number_3(EMAIL_3), Member_4: Student_Number_4(EMAIL_4), Kai Zhang: 12712469 (mail@kai.sh)
+        </b>
+    </i>
+</p>
 
 ## General Idea
 
