@@ -1,6 +1,8 @@
 <h1 align="center">X_405086 The Social Web (Project Group 3)</h1>
 
-<img src="./Doc/vu_logo.png" width="300" align="center">
+<p align="center">
+    <img src="./Doc/vu_logo.png" width="300" align="center">
+</p>
 
 <p align="center">
     <i>
@@ -18,7 +20,9 @@ The US elections in 2020 is a trending topic on Social Network Services (SNS) su
 Research question: To what degree can data mining of social network services predict the outcome of an US election?
 
 ## Data process pip-line
-<img src="./Doc/process_pipline.png" width="900" align="center">
+<p align="center">
+    <img src="./Doc/process_pipline.png" width="900" align="center">
+</p>
 
 ## Project Information Visualization Demo
 [Video Link](PLEASE_INSERT_LINK)
