@@ -1,7 +1,7 @@
 <h1 align="center"> The Social Web (Project Group 3)</h1>
 
 
-<img src="./Doc/vu_logo.png" width="400" height="790">
+<img src="./Doc/vu_logo.png" width="300">
 
 <p align="center">
     <i>
