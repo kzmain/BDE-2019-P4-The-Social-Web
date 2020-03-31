@@ -17,10 +17,10 @@ The US elections in 2020 is a trending topic on Social Network Services (SNS) su
 
 Research question: To what degree can data mining of social network services predict the outcome of an US election?
 ## Project Information Visualization Demo
-[Video Link][https://www.google.com]
+[Video Link](PLEASE_INSERT_LINK)
 
 ## Data process pip-line
 <img src="./Doc/process_pipline.png" width="900" align="center">
 
 ## Documents
-[Tech documents][./Doc/Tech.pdf]
+[Tech documents](./Doc/Tech.pdf)
