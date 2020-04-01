@@ -7,7 +7,7 @@
 <p align="center">
     <i>
         <b>
-        Group Members: <br>Member_1: Student_Number_1(EMAIL_1), Member_2: Student_Number_2(EMAIL_2), Member_3: Student_Number_3(EMAIL_3), Jordy Ravesteijn: 2635721 (j.n.ravesteijn@student.vu.nl), Kai Zhang: 12712469 (mail@kai.sh)
+        Group Members: <br>Member_1: Student_Number_1(EMAIL_1), Member_2: Student_Number_2(EMAIL_2), Shiva Jairam: 2630837(mailto:s.a.jairam@student.vu.nl), Jordy Ravesteijn: 2635721 (j.n.ravesteijn@student.vu.nl), Kai Zhang: 12712469 (mail@kai.sh)
         </b>
     </i>
 </p>
