@@ -116,7 +116,7 @@ let true_title_overall            = {
     left: true_title_overall_lef,
 };
 let true_title_estimation         = {
-    text: 'Election Estimation (Top Twitter based)',
+    text: 'Election Estimation (Top Tweets based)',
     textStyle:{
         color: '#eee',
         fontSize: title_2_size
@@ -134,7 +134,7 @@ let false_title_estimation         = {
     left: false_title_estimation_lef,
 };
 let true_title_top_twitter_count  = {
-    text: 'Election Top Twitter Count',
+    text: 'Election Top Tweets Count',
     textStyle:{
         color: '#eee',
         fontSize: title_2_size

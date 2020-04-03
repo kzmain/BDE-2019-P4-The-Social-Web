@@ -7,7 +7,12 @@
 <p align="center">
     <i>
         <b>
-        Group Members: <br>Member_1: Student_Number_1(EMAIL_1), Member_2: Student_Number_2(EMAIL_2), Shiva Jairam: 2630837(mailto:s.a.jairam@student.vu.nl), Jordy Ravesteijn: 2635721 (j.n.ravesteijn@student.vu.nl), Kai Zhang: 12712469 (mail@kai.sh)
+        Group Members: <br>
+        Member_1: Student_Number_1(EMAIL_1), 
+        Member_2: Student_Number_2(EMAIL_2), 
+        Shiva Jairam: 2630837(mailto:s.a.jairam@student.vu.nl), 
+        Jordy Ravesteijn: 2635721 (j.n.ravesteijn@student.vu.nl), 
+        Kai Zhang: 12712469 (mail@kai.sh)
         </b>
     </i>
 </p>
@@ -25,7 +30,7 @@ Research question: To what degree can data mining of social network services pre
 </p>
 
 ## Project Information Visualization Demo
-[Video Link](PLEASE_INSERT_LINK)
+Our final presentation video is hosted on YouTube due to size restrictions and easy accessibility: https://youtu.be/WnoiCArH494
 
 ## Documents
 [Tech documents](./Doc/Tech.pdf)
