@@ -7,12 +7,12 @@
 <p align="center">
     <i>
         <b>
-        Group Members: <br>
-        Member_1: Student_Number_1(EMAIL_1), 
-        Member_2: Student_Number_2(EMAIL_2), 
-        Shiva Jairam: 2630837(mailto:s.a.jairam@student.vu.nl), 
+        Group Members (even contribution) : <br>
+        Shuxin He: 2633040 (hsx510@gmail.com), 
+        S.B. Schelvis: 2651448 (s.b.schelvis@student.vu.nl), 
+        Shiva Jairam: 2630837 (s.a.jairam@student.vu.nl), 
         Jordy Ravesteijn: 2635721 (j.n.ravesteijn@student.vu.nl), 
-        Kai Zhang: 12712469 (mail@kai.sh)
+        Kai Zhang: 2666387 (mail@kai.sh)
         </b>
     </i>
 </p>
