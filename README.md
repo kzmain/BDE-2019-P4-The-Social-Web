@@ -43,3 +43,7 @@ Our final presentation video is hosted on YouTube due to size restrictions and e
     ```shell
     flask app.py
     ```
+## Potential problems
+1. If you see `major 55 error`, it means you did not get right Java Configuration, spark only accept java 1.8, please check following link to config right Java version. https://stackoverflow.com/questions/21964709/how-to-set-or-change-the-default-java-jdk-version-on-os-x
+2. It need 10 seconds to make server start and generate new word cloud.
+
