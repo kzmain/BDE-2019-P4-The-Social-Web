@@ -32,8 +32,6 @@ Research question: To what degree can data mining of social network services pre
 ## Project Information Visualization Demo
 Our final presentation video is hosted on YouTube due to size restrictions and easy accessibility: https://youtu.be/WnoiCArH494
 
-## Documents
-[Tech documents](./Doc/Tech.pdf)
 
 ## Run project
 1. Set default Java Version as Java 1.8
