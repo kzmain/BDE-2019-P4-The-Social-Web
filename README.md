@@ -1,7 +1,7 @@
 <h1 align="center">X_405086 The Social Web (Project Group 3)</h1>
 
 <p align="center">
-    <img src="./Doc/vu_logo.png" width="300" align="center">
+    <img src="_documents/vu_logo.png" width="300" align="center">
 </p>
 
 <p align="center">
@@ -26,18 +26,21 @@ Research question: To what degree can data mining of social network services pre
 
 ## Data process pip-line
 <p align="center">
-    <img src="./Doc/process_pipline.png" width="900" align="center">
+    <img src="_documents/process_pipline.png" width="900" align="center">
 </p>
 
 ## Project Information Visualization Demo
 Our final presentation video is hosted on YouTube due to size restrictions and easy accessibility: https://youtu.be/WnoiCArH494
 
+<p align="center">
+    <img src="_documents/Screen-Caputre.png.png" width="900" align="center">
+</p>
 
 ## Run project
 1. Set default Java Version as Java 1.8
 2. Install related python requirements
     ```shell
-    pip install -r requirements.txt
+    pip3 install -r requirements.txt
     ```
 3. Run the Flask's `app.py`
     ```shell
