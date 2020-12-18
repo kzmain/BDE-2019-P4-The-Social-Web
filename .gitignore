@@ -7,5 +7,10 @@
 .ipynb_checkpoints/
 .ipython/
 .local/
+.idea/*
+.idea/*.*
 .profile
+.idea/workspace.xml
+*/__pycache__/*
+.idea/Socialweb.iml
 .idea/workspace.xml

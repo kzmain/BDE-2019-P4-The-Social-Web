@@ -358,9 +358,6 @@ let true_yAxis_top_twitter_count          = {
             color: '#eee'
         }
     },
-    // axisLabel: {
-    //     formatter: '{value} %'
-    // }
 };
 let true_yAxis_sentiment_analysis_hillary = {
     name: 'Hillary',
@@ -419,7 +416,6 @@ let true_yAxis_list = [
     true_yAxis_sentiment_analysis_trump,
     false_yAxis_estimation
 ];
-// --------------Graphic --------------
 // ---------------Series---------------
 let true_series_sentiment_analysis_hillary_positive_index = 0;
 let true_series_sentiment_analysis_hillary_neutral_index  = 1;
@@ -429,17 +425,8 @@ let true_series_sentiment_analysis_trump_positive_index = 3;
 let true_series_sentiment_analysis_trump_neutral_index  = 4;
 let true_series_sentiment_analysis_trump_negative_index = 5;
 
-let true_series_top_twitter_count_hillary_index = 6;
-let true_series_top_twitter_count_trump_index   = 7;
-
-let true_series_election_estimation_hillary_index = 8;
-let true_series_election_estimation_trump_index   = 9;
-
 let true_series_word_cloud_index = 10;
 let true_series_markline_index   = 11;
-
-let false_series_election_estimation_hillary_index = 12;
-let false_series_election_estimation_trump_index   = 13;
 
 let true_series_sentiment_analysis_hillary_positive = {
     name: 'Positive',
