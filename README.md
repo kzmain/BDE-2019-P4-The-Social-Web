@@ -33,7 +33,7 @@ Research question: To what degree can data mining of social network services pre
 Our final presentation video is hosted on YouTube due to size restrictions and easy accessibility: https://youtu.be/WnoiCArH494
 
 <p align="center">
-    <img src="_documents/Screen-Caputre.png.png" width="900" align="center">
+    <img src="_documents/Screen-Capture.png" width="900" align="center">
 </p>
 
 ## Run project
